@@ -26,7 +26,7 @@ struct ContentView: View {
                     )
                     Spacer()
                     CircleButtonView(
-                        buttonColor: .green,
+                        buttonColor: .brown,
                         label: "Start",
                         labelColor: .green
                     )
