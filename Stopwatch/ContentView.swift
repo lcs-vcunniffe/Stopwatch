@@ -17,7 +17,7 @@ struct ContentView: View {
                     .font(Font.system(size: 90, weight: .thin))
                     .foregroundColor(.white)
                 
-                //Reset button
+                //Reset button!
                 HStack {
                     CircleButtonView(
                         buttonColor: .gray,
